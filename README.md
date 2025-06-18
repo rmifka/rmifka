@@ -1,9 +1,9 @@
 # Hi there, I'm Renschi 👋
 
-🎓 Student at HTL Leonding
-💻 Passionate about Software Development, DevOps & Automation  
-🧠 Always learning and building cool stuff  
-🇦🇹 Based in Austria
+* 🎓 Student at HTL Leonding
+* 💻 Passionate about Software Development, DevOps & Automation  
+* 🧠 Always learning and building cool stuff  
+* 🇦🇹 Based in Austria
 
 ---
 
